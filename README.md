@@ -5,6 +5,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteSun13&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ![leetcodeSolved](https://leetcard.jacoblin.cool/whitesun13)
+
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=WhiteSun13&theme=midnight)
 ---
 
 <!--
