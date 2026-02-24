@@ -1,12 +1,10 @@
 ## ![Pikachu](https://raw.githubusercontent.com/iam4x/pokemongo-webspoof/refs/heads/master/pikachu.gif) Hi there
 
-![Abibullaev Suleiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteSun13&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteSun13&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=WhiteSun13&theme=midnight)
 
 ![leetcodeSolved](https://leetcard.jacoblin.cool/whitesun13)
 
-![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=WhiteSun13&theme=midnight)
+![osu! stats card](https://osu-profile-stats.vercel.app/api/profile-stats/WhiteSun13?playmode=osu&version=full&height=350&background=bg1)
 ---
 
 <!--
@@ -22,4 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Abibullaev Suleiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteSun13&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteSun13&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 -->
