@@ -4,7 +4,7 @@
 
 ![leetcodeSolved](https://leetcard.jacoblin.cool/whitesun13)
 
-![osu! stats card](https://osu-profile-stats.vercel.app/api/profile-stats/WhiteSun13?playmode=osu&version=full&height=350&background=bg1)
+[![osu! stats card](https://osu-profile-stats.vercel.app/api/profile-stats/WhiteSun13?playmode=osu&version=mini&height=150&background=bg1)](https://osu.ppy.sh/users/WhiteSun13)
 ---
 
 <!--
